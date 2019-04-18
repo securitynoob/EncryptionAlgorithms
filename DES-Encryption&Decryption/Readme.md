@@ -1,11 +1,5 @@
 
-
-```python
-from test_des import *
-from bitstring import BitArray
-```
-
-# Exam 1: DES Encryption and Decryption
+# **Data Encryption Standard Algorithm**
 
 The Data Encryption Standard (DES) is a symmetric-key block cipher published by the National Institute of Standards and Technology (NIST).
 
@@ -1991,6 +1985,6 @@ print("decoded input: ", decoded_text)
 ```
 
     user input: abc
-    decoded input:  abc     
+    decoded input:  abc
     
 ```
